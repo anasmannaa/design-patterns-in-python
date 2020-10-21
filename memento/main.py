@@ -1,4 +1,4 @@
-#This model is not part of the memento design pattern.
+#This module is not part of the memento design pattern.
 #It is just for you to run and test the pattern workin
 import document_state
 import document
